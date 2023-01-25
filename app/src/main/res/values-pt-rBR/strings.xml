@@ -20,10 +20,10 @@
     <string name="shutter_button_description">Obturador</string>
     <string name="video_mode_button_description">Alternar para o modo de vídeo</string>
     <string name="video_recording_state_button_description">Pausar/retomar a gravação de vídeo</string>
-    <string name="timer_off">TEMPORIZADOR DESATIVADO</string>
-    <string name="timer_3">TEMPORIZADOR 3s</string>
-    <string name="timer_10">TEMPORIZADOR 10s</string>
-    <string name="video_framerate_auto">FPS AUTOMÁTICO</string>
+    <string name="timer_off">OFF</string>
+    <string name="timer_3">3s</string>
+    <string name="timer_10">10s</string>
+    <string name="video_framerate_auto">AUTO FPS</string>
     <string name="video_framerate_value"><xliff:g example="60" id="fps">%d</xliff:g> FPS</string>
     <string name="effect_none">NENHUM</string>
     <string name="effect_bokeh" translatable="false"></string>
@@ -31,16 +31,16 @@
     <string name="effect_night">NOITE</string>
     <string name="effect_face_retouch">RETOQUE FACIAL</string>
     <string name="effect_auto">AUTOMÁTICO</string>
-    <string name="grid_off">GRADE DESLIGADA</string>
-    <string name="grid_on_3">GRADE 3x3</string>
-    <string name="grid_on_4">GRADE 4x4</string>
+    <string name="grid_off">OFF</string>
+    <string name="grid_on_3">3x3</string>
+    <string name="grid_on_4">4x4</string>
     <string name="grid_on_goldenratio">GRADE φ</string>
-    <string name="mic_off">MIC DESLIGADO</string>
+    <string name="mic_off">MIC OFF</string>
     <string name="mic_on">MIC ON</string>
-    <string name="settings">DEFINIÇÕES</string>
+    <string name="settings">CONFIGURAÇÔES</string>
     <string name="selector_photo">FOTO</string>
     <string name="select_video">VÍDEO</string>
-    <string name="select_scan">DIGITALIZAR</string>
+    <string name="select_scan">SCANNER</string>
     <string name="app_permissions_toast">Permissões não concedidas pelo usuário.</string>
     <string name="camcorder_unsupported_toast">Nenhuma câmera suporta gravação de vídeo.</string>
     <string name="qr_copy_description">Copiar para área de transferência</string>
@@ -72,11 +72,11 @@
     <string name="video_stabilization_ois_summary">Se o hardware for compatível, use a estabilização ótica de imagem (OIS) em vez da estabilização eletrônica de imagem (EIS)</string>
     <string name="video_stabilization_preview_title">Ativar a estabilização na visualização quando disponível</string>
     <string name="video_stabilization_preview_summary">Se disponível, aplique a estabilização de imagem também à visualização e, se o hardware suportar, ative automaticamente a estabilização ótica de imagem (OIS) junto com a estabilização eletrônica de imagem (EIS), se o dispositivo considerar apropriado. Apenas alguns dispositivos lançados com Android 13 ou mais recente suportam este modo</string>
-    <string name="shortcut_selfie">Tirar uma selfie</string>
+    <string name="shortcut_selfie">Tire uma selfie</string>
     <string name="shortcut_video">Faça um vídeo</string>
-    <string name="shortcut_qr">Escanear um código de barras</string>
+    <string name="shortcut_qr">QR CODE</string>
     <string name="location_permission_dialog_title">Adicionar locais de fotos e vídeos</string>
     <string name="location_permission_dialog_description">Mapeie suas memórias incluindo metadados de localização em cada captura.</string>
-    <string name="location_permission_dialog_later">Mais tarde</string>
+    <string name="location_permission_dialog_later">Depois</string>
     <string name="location_permission_dialog_turn_on">Ligar</string>
 </resources>
